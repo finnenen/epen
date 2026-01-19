@@ -1,0 +1,14 @@
+# Python internals
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+.venv/
+.venv*/
+venv/
+env/
+
+# OS specific
+Thumbs.db
+.DS_Store

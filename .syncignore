@@ -1,0 +1,9 @@
+data-collector.py
+esp-poti-main.py
+messdaten.csv
+predict_interactive.py
+requirements.txt
+training-model.py
+__pycache__
+.venv
+model_artifacts

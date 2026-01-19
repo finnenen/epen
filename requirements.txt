@@ -1,0 +1,7 @@
+tensorflow>=2.10.0
+pandas>=1.3
+scikit-learn>=1.0
+numpy>=1.21
+joblib>=1.1
+pyserial>=3.5
+# Optional: for faster installs on Windows consider tensorflow-cpu if GPU not used
